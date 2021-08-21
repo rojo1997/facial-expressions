@@ -1,2 +1,4 @@
 dockerfile
 *.md
+image
+tests
