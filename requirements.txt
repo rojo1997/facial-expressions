@@ -1,0 +1,5 @@
+uvicorn
+fastapi
+starlette
+fer
+python-multipart
